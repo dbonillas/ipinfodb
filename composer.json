@@ -1,0 +1,15 @@
+{
+  "name": "vox/ipinfodb",
+
+  "keywords": [
+    "ipinfodb", "ipinfo"
+  ],
+  "license": "MIT",
+  "type": "library",
+  "autoload": {
+    "psr-0": {
+      "IpInfoDb": "src/"
+    }
+  },
+  "license": "MIT",
+}
