@@ -1,5 +1,5 @@
 {
-  "name": "vox/ipinfodb",
+  "name": "light/ipinfodb",
 
   "keywords": [
     "ipinfodb", "ipinfo"
@@ -11,5 +11,4 @@
       "IpInfoDb": "src/"
     }
   },
-  "license": "MIT",
 }
